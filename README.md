@@ -1,1 +1,2 @@
-# Instagram_crawler
+# Instagram_crawler 
+인스타그램에서 해쉬태그별로 사진, 좋아요 수, 게시자의 팔로워 수를 가져올 수 있는 크롤러
